@@ -16,7 +16,7 @@
 
 <p align="center">● 🍿 Movies & series on the couch, like religion</p>
 
-<p align="center">● 🎮 Love videogames & anime</b></p>
+<p align="center">● 🎮 Love video games & anime</b></p>
 
 <p align="center">● ⚡ Fun fact: <b>Dreamer & cries in ♓</b></p>
 
