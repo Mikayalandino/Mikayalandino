@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mika</h1>
 <h3 align="center">Programmer and dreamer ✨</h3>
 
+![Pusheen](https://raw.githubusercontent.com/fate0/fate0/master/artwork/pusheencode.gif)
+
 - 🔭 I’m currently working on [Portfolio](https://mikayalandino.github.io/Portfolio-2.0/)
 
 - 🌱 I’m currently learning **JavaScript**
