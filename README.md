@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [Projects](https://github.com/Mikayalandino)
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/Mikayalandino?tab=repositories)
 
 - ⚡ Fun fact **Dreamer & cries in ♓**
 
