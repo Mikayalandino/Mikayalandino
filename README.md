@@ -10,7 +10,7 @@
 
 <p align="center">● 🌱 I’m currently learning <b>JavaScript</b>
 
-<p align="center">● 👨‍💻 All of my projects are available at <a href="https://github.com/Mikayalandino?tab=repositories" target="_blank">Projects</a></p>
+<p align="center">● 👨‍💻 All of my projects are available at <a href="https://github.com/Mikayalandino?tab=repositories" target="_blank">Repositories</a></p>
 
 <p align="center">● ⚡ Fun fact: <b>Dreamer & cries in ♓</b></p>
 
