@@ -1,10 +1,11 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Mika</h1>
-
-<h3 align="center">Programmer and dreamer ✨</h3>
-
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Mika!</h1>
+<h3 align="center">Programmer and dreamer <img src="https://media2.giphy.com/media/ll6k0B10kGNQEn6KsO/giphy.gif?cid=790b76118958d382d2e5922ab5977270b01c6812df3ff800&rid=giphy.gif&ct=s" width="30px"></p></h3>
+<br>
 <p align="center">
   <img src="https://raw.githubusercontent.com/fate0/fate0/master/artwork/pusheencode.gif" alt="pusheen"/>
 </p>
+
+<p align="center"><img src="https://media2.giphy.com/media/kcsMIFJAk8hVzNSaR7/giphy.gif?cid=790b761180265051e782e07de176b827102eb1e20ea950a0&rid=giphy.gif&ct=s" width="200px">
 
 <p align="center">● 🔭 I’m currently working on <a href="https://mikayalandino.github.io/Portfolio-2.0/" target="_blank">Portfolio</a></p>
 
@@ -35,4 +36,6 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>   
   </a> 
+<p align="center"><img src="https://media2.giphy.com/media/kcsMIFJAk8hVzNSaR7/giphy.gif?cid=790b761180265051e782e07de176b827102eb1e20ea950a0&rid=giphy.gif&ct=s" width="200px">
+
 </p>
