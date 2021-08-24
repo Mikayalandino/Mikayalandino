@@ -7,7 +7,7 @@
 
 <p align="center"><img src="https://media2.giphy.com/media/kcsMIFJAk8hVzNSaR7/giphy.gif?cid=790b761180265051e782e07de176b827102eb1e20ea950a0&rid=giphy.gif&ct=s" width="200px">
 
-<p align="center">● 🔭 I’m currently working on <a href="https://mikayalandino.github.io/Portfolio-2.0/" target="_blank">Portfolio</a></p>
+<p align="center">● 🔭 I’m currently working on <a href="https://mikayalandino.github.io/Meme-Generator" target="_blank">Meme Generator</a></p>
 
 <p align="center">● 🌱 I’m currently learning <b>JavaScript</b>
 
