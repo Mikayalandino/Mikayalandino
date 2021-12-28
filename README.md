@@ -9,7 +9,7 @@
 
 <p align="center">● 🔭 I’m currently working on <a href="https://github.com/SmeraldaKa0s/API-" target="_blank">Pokemon TCG - API</a></p>
 
-<p align="center">● 🌱 I’m currently learning <b>JavaScript</b>
+<p align="center">● 🌱 I’m currently learning <b>React</b>
 
 <p align="center">● 👨‍💻 All of my projects are available at <a href="https://github.com/Mikayalandino?tab=repositories" target="_blank">Repositories</a></p>
 
