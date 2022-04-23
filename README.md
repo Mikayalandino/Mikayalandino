@@ -36,6 +36,12 @@
    <a href="https://bulma.io/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="30" height="30"/>
     </a>
+   <a href="https://mui.com/" target="_blank"> 
+        <img src="https://img.icons8.com/color/480/material-ui.png" alt="material ui" width="30" height="30"/>
+    </a>
+   <a href="https://getbootstrap.com/" target="_blank"> 
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" alt="bootstrap" width="30" height="30"/>
+    </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>   
     </a>
