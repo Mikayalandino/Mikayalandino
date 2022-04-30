@@ -47,7 +47,10 @@
     </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
-     </a>      
+     </a>    
+    <a href="https://nodejs.org/es/" target="_blank"> 
+        <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png" alt="node js" width="60" height="30"/>
+     </a>
      <a href="https://git-scm.com/" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
      </a>
