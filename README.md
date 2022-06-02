@@ -9,7 +9,7 @@
 
 <p align="center">● 🔭 I’m currently working on <a href="" target="_blank">Project Meli</a></p>
 
-<p align="center">● 🌱 I’m currently learning <b>Bizagi</b>
+<p align="center">● 🌱 I’m currently learning <b>Bizagi & Node.js</b>
 
 <p align="center">● 👨‍💻 All of my projects are available at <a href="https://github.com/Mikayalandino?tab=repositories" target="_blank">Repositories</a></p>
 
