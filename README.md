@@ -13,6 +13,8 @@
 
 <p align="center">● 👨‍💻 All of my projects are available at <a href="https://github.com/Mikayalandino?tab=repositories" target="_blank">Repositories</a></p>
 
+<p align="center">● 🏹 A beginner Archer - since 2022 💘</b></p>
+
 <p align="center">● 😸 I have 3 cats: <b>Mia, Batman & Tokio 🥀 <3 </b></p>
 
 <p align="center">● 🍿 Movies & series on the couch, like religion</p>
