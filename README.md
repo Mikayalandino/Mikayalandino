@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px" height="30"> I'm Mika!</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px" height="25"> I'm Mika!</h1>
 <h3 align="center">Programmer and dreamer <img src="https://media2.giphy.com/media/ll6k0B10kGNQEn6KsO/giphy.gif?cid=790b76118958d382d2e5922ab5977270b01c6812df3ff800&rid=giphy.gif&ct=s" width="10px" height="20"></p></h3>
 <br>
 <p align="center">
