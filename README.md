@@ -7,7 +7,7 @@
 
 <p align="center"><img src="https://media2.giphy.com/media/kcsMIFJAk8hVzNSaR7/giphy.gif?cid=790b761180265051e782e07de176b827102eb1e20ea950a0&rid=giphy.gif&ct=s" width="200px" height="300">
 
-<p align="center">● 🔭 I’m currently working on <a href="" target="_blank">Project Meli</a></p>
+<p align="center">● 🔭 I’m currently working on <a href="" target="_blank">-</a></p>
 
 <p align="center">● 🌱 I’m currently learning <b>Bizagi & Node.js</b>
 
