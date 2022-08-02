@@ -24,7 +24,7 @@
 <p align="center">● ⚡ Fun fact: <b>Dreamer & cries in ♓</b></p>
 
 <h3 align="center">Languages and Tools:</h3>
-<h4 align="center">Frontend, QA & Backend (learning)</h4>
+<h4 align="center">Frontend, QA & RPA (learning)</h4>
  <p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
