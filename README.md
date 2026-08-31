@@ -15,7 +15,7 @@
 
 <p align="center">● 🏹 A beginner Archer - since 2022 💘</b></p>
 
-<p align="center">● 😸 I have 3 cats: <b>Mia & Batman <3 </b></p>
+<p align="center">● 😸 I have 3 cats: <b>Mia, Batman & Merlina <3 </b></p>
 
 <p align="center">● 🍿 Movies & series on the couch, like religion</p>
 
