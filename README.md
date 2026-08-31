@@ -9,7 +9,7 @@
 
 <p align="center">● 🔭 I’m currently working on <a href="" target="_blank">Learning</a></p>
 
-<p align="center">● 🌱 I’m currently learning <b>Bizagi</b>
+<p align="center">● 🌱 I’m currently learning <b>QA Automation</b>
 
 <p align="center">● 👨‍💻 All of my projects are available at <a href="https://github.com/Mikayalandino?tab=repositories" target="_blank">Repositories</a></p>
 
@@ -24,7 +24,7 @@
 <p align="center">● ⚡ Fun fact: <b>Dreamer & cries in ♓</b></p>
 
 <h3 align="center">Languages and Tools:</h3>
-<h4 align="center">Frontend, QA & RPA (learning)</h4>
+<h4 align="center">Frontend & QA (learning)</h4>
  <p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
